@@ -1,4 +1,7 @@
 <div align="center">
+     <h1 align="center">Python Binary Tree Visualizer</h1>
+     <img src="https://github.com/user-attachments/assets/43e33b05-64e7-475e-8fdb-8b369f0b3a52" height=90px width=90px/>
+     <br/>
      <br/>
      <img alt="Static Badge" src="https://img.shields.io/badge/Python-7F00FF?style=for-the-badge">
      <img alt="Static Badge" src="https://img.shields.io/badge/Binary%20Tree-red?style=for-the-badge">
