@@ -41,7 +41,7 @@
 </div>
 
 ## Overview 🌟
-- Programs with Tkinter to Visualize the Binary Tree.
+- Program with Tkinter to Visualize the Binary Tree.
 
 
 <!------------------------------------------------->
